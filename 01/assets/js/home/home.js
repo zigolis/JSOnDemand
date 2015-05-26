@@ -4,7 +4,7 @@ define(
     'use strict';
 
     var Home = function() {
-      document.querySelector('h1').innerHTML = '/#!/home on demand!!!';
+      document.querySelector('h1').innerHTML = '/#!/home';
     }
 
     return new Home;
