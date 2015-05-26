@@ -1,0 +1,9 @@
+{
+  "name": "jsOndemand",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zigolis/jsOndemand",
+  "license": "MIT",
+  "devDependencies": {
+    "requirejs": "~2.1.17"
+  }
+}
