@@ -1,4 +1,4 @@
-modules = [
+var modules = [
   {
     module  : 'general',
     path    : 'general'
